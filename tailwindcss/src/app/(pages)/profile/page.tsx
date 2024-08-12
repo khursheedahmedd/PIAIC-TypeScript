@@ -1,4 +1,4 @@
-export const metatdata = {
+export const metadata = {
   title: "About ",
 };
 
