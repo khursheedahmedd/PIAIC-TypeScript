@@ -2,4 +2,4 @@
 
 let varibale: string | null;
 
-varibale = 's'; 
+varibale = 's';  
